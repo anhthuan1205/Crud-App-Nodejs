@@ -1,0 +1,19 @@
+{"message":"Server is running on port: 3000","level":"info"}
+{"message":"Server is running on port: 3000","level":"info"}
+{"message":"Get all user success!","level":"info"}
+{"message":"Request param: 2","level":"info"}
+{"message":"Get 1 user success.","level":"info"}
+{"message":"Request param: 4","level":"info"}
+{"message":"Get 1 user success.","level":"info"}
+{"message":"Server is running on port: 3000","level":"info"}
+{"message":"Request param: 4","level":"info"}
+{"message":"Get 1 user success.","level":"info"}
+{"message":"Server is running on port: 3000","level":"info"}
+{"message":"Request param: 4","level":"info"}
+{"message":"Get 1 user success.","level":"info"}
+{"message":"Server is running on port: 3000","level":"info"}
+{"message":"Request param: 4","level":"info"}
+{"message":"Not found this user in database.","level":"error"}
+{"message":"Server is running on port: 3000","level":"info"}
+{"message":"Request param: 4","level":"info"}
+{"message":"Not found this user in database.","level":"error"}
